@@ -1,0 +1,2 @@
+# Plotly in Wasm Environment
+This is a simple repo to demonstrate how to use Plotly in a WebAssembly environment. If everything works, it should be integrated in the [Earth Metabolome Initiative (EMI)](https://github.com/earth-metabolome-initiative/emi-monorepo) project.
